@@ -40,10 +40,10 @@
 <h4> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <br><br>
 <p>
-<a href="https://github.com/gabrielferrazz">
-<img alt="top-langs" align="center" height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=vue-dark&hide=jupyter%20notebook"/>
-<a href="https://github.com/gabrielferrazz">
-<img alt="commits" align="center" height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=issues"/>
+<a href="https://github.com/renanjastro">
+<img alt="top-langs" align="center" height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=renanjastro&layout=compact&langs_count=16&theme=vue-dark&hide=jupyter%20notebook"/>
+<a href="https://github.com/renanjastro">
+<img alt="commits" align="center" height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=renanjastro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=issues"/>
 </p>
 </div>
 <!-- Snake --->
