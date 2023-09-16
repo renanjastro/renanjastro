@@ -26,7 +26,7 @@
 <h1> Languages & Frameworks <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
   <br><br>
 <p align="center">
-  <code><img title="HTML5" height="45" src="https://github.com/renanjastro/renanjastro/issues/1#issue-1899247439"></code>
+  <code><img title="HTML5" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png"></code>
   <code><img title="CSS" height="45" src="images/css.svg"></code>
   <code><img title="Javascript" height="45" src="images/jsscript.svg"></code>
   <code><img title="GitHub" height="45" src="images/github.svg"></code>
