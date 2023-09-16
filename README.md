@@ -26,10 +26,10 @@
 <h1> Languages & Frameworks <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
   <br><br>
 <p align="center">
-  <code><img title="HTML5" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png"></code>
-  <code><img title="CSS" height="45" src="images/css.svg"></code>
-  <code><img title="Javascript" height="45" src="images/jsscript.svg"></code>
-  <code><img title="GitHub" height="45" src="images/github.svg"></code>
+  <code><img title="HTML5" height="45" src="https://media.brainly.com.br/image/rs:fill/w:750/q:75/plain/https://pt-static.z-dn.net/files/deb/fd8e7b72a37a1b4e2991d625fcf525e3.png"></code>
+  <code><img title="CSS" height="45" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
+  <code><img title="Javascript" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
+  <code><img title="GitHub" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png"></code>
 </p>
 </hr>
 
