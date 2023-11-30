@@ -10,7 +10,7 @@
 <p>
   Olá, me chamo Renan Jastro e sou estudante de desenvolvimento.
   <br><br>
-  🔬 Atualmente estou estudando  Desenvolvimento Front End e C, C#.
+  🔬 Atualmente estou estudando  Desenvolvimento JavaScript, nodejs react, C#, asp.net e entity framework
 
   <br>
   💻 Viciado em estudar e aprender sobre Tecnologia.
